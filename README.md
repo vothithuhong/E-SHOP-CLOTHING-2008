@@ -1,17 +1,4 @@
 # E-SHOP-CLOTHING-2008
----
-title: "Báo cáo phân tích dữ liệu e-shop"
-author: "Thu Hồng"
-date: "`r Sys.Date()`"
-output:
-  word_document: default
-  html_document:
-    df_print: paged
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## 1 Giới thiệu
 
